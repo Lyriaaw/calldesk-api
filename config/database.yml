@@ -28,4 +28,9 @@ test:
 
 production:
   <<: *default
-  database: db/production.sqlite3
+  database: eyoytkb9gkml3su7
+  pool: 5
+  username: fttbbco18ja1fkfe
+  password: xe65vhjgwu7bqzyx
+  host: nr84dudlpkazpylz.chr7pe7iynqr.eu-west-1.rds.amazonaws.com
+  port: 3307
